@@ -1,0 +1,18 @@
+.table {
+    border: 2px solid darkblue;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    box-Shadow: 10px 10px 15px rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    background-color: rgb(149, 197, 101);
+    border-radius: 4em;
+}
+th{color: black;}
+td{color: blue;}
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(119, 119, 119);
+    text-align: center;
+}
