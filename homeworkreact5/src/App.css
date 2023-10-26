@@ -1,0 +1,11 @@
+.error{
+  color: red;
+}
+html {
+background-color: rgb(180, 175, 104);
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
