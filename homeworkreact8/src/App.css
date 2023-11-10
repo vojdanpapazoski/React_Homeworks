@@ -1,0 +1,38 @@
+html {
+  background-color: rgb(41, 80, 41);
+  font-family:  'Lucida Sans', Arial, sans-serif;
+  width: 80%;
+  text-align: center;
+  margin-left: 100px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(165, 165, 165);
+
+}
+
+h4 {
+  color:rgb(41, 80, 41);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 5px 5px 15px 0px rgba(0,0,0,0.4);
+}
+.info{
+  background-color: rgb(165, 165, 165);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+img {
+  border-radius: 14px;
+  width: 350px;
+  border-style: outset;
+  box-shadow: 10px 10px 61px -8px rgba(0,0,0,0.75);
+
+}
+
+.desc{
+ color: rgb(165, 165, 165);
+ font-size:12px;
+}
